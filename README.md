@@ -1,4 +1,5 @@
 # MechaCar_Statistical_Analysis
+This assignment required the use of R and R packages to analyze production data from a car manufacturing company.
 
 ## Linear Regression to predict MPG
 
